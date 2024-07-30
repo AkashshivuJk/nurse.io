@@ -1,0 +1,28 @@
+
+
+	 Your ECG report is not normal!! 
+	 Your Hearbeats are not normal 
+	 Please refer a doctor immediately!
+                -Having abnormal heartbeats, also known as arrhythmias, means that the heart's rhythm is 
+                irregular or abnormal. It is essential to seek medical attention to properly diagnose and manage 
+                the condition. Treatment for abnormal heartbeats may involve medication, lifestyle modifications, 
+                and in some cases, medical procedures. Regular monitoring and follow-up with a healthcare provider 
+                are crucial to ensure the condition is properly managed and potential complications are addressed.
+
+
+                1.  Follow the prescribed treatment plan and take medications as directed by the healthcare provider.
+                2.  Avoid triggers that can worsen the irregular heartbeats, such as excessive caffeine, alcohol, or 
+                    certain medications.
+                3.  Manage stress through relaxation techniques, exercise, and seeking support from loved ones.
+                4.  Maintain a healthy lifestyle by adopting a heart-healthy diet and engaging in regular physical activity.
+                5.  Quit smoking and avoid exposure to secondhand smoke.
+                6.  Limit or avoid the use of stimulants like energy drinks or recreational drugs that can affect heart rhythm.
+                7.  Ensure regular check-ups and follow-up appointments with the healthcare provider to monitor the condition 
+                    and adjust treatment as needed.
+                8.  Be aware of symptoms that may indicate a worsening of the condition and promptly report any changes to the 
+                    healthcare provider.
+                9.  Consider wearing a medical alert bracelet or necklace to inform others of the condition in case of emergency.
+            10.  Educate oneself about the condition, its triggers, and appropriate self-care measures to better manage and 
+                    prevent complications.
+
+ 
